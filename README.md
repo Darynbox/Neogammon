@@ -222,12 +222,6 @@ Checker stacking formula:
 
 ---
 
-## Author
-
-**Bekarrys** — [github.com/bekarrys](https://github.com/bekarrys)
-
----
-
 ## License
 
 MIT
